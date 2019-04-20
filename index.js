@@ -12,7 +12,7 @@ let options = {
         username: 'Butexx',
         password: process.env.B0T_T0KEN,
     },
-    channels: ['Nieuczesana', 'sodapoppin', 'shroud', 'FederalGhosts', 'C9Sneaky', 'STPeach', 'Brunecia', 'Miauki', 'AiSzjaa', 'ikusiaa', 'Amouranth', 'forsen', 'xQcOW', 'anieyo_', 'an_dream', 'AnniTheDuck', 'Denly', 'MisDelish', 'suvikh', 'yuki2yuki', '2sick4drama', 'kachynska'],
+    channels: ['Nieuczesana', 'sodapoppin', 'shroud', 'FederalGhosts', 'C9Sneaky', 'STPeach', 'Brunecia', 'Miauki', 'AiSzjaa', 'ikusiaa', 'Amouranth', 'forsen', 'xQcOW', 'anieyo_', 'an_dream', 'AnniTheDuck', 'Denly', 'MisDelish', 'suvikh', 'yuki2yuki', '2sick4drama', 'kachynska', 'DansGaming', 'RajjPatel', 'AriGameplays', 'Jenna', 'RomanovaRela', 'Emzia', 'SteamingPolak', 'TheSwatKnight'],
 };
 
 let client = new tmi.client(options);
